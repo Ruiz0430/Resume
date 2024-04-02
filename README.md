@@ -11,6 +11,3 @@ My skills include but are not limited to:
 - Python
 - C++
 - Sql
-
-## Projects:
-** Resume-pdf
