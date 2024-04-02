@@ -1,5 +1,6 @@
 # My Projects
 **Daniel Ruiz**
+
 **Florida Atlantic University Alum 2024**
 
 ## Description:
