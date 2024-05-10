@@ -1,5 +1,11 @@
 # Daniel Ruiz's Resume
 
+The purpose of this project is to represent a more visually aesthetic version of my resume.
+
+## Description
+
+
+
 
 
 
