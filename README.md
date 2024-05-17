@@ -11,6 +11,7 @@ being referenced by employers when viewing my job applications.
 ### Dependencies
 
 - Any desktop IDE (ex. VSCode)
+- Bootstrap
 
 ## Authors
 
