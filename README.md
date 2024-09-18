@@ -1,5 +1,7 @@
 # Resume: Daniel Ruiz
 
+## [Visit my portfolio](https://github.com/Ruiz0430/My-Portfolio.git)
+
 ## Description
 
 This repo serves as a more visually pleasing version of my resume. A predefined bootstrap template was used and edited for the desired design.
